@@ -6,4 +6,4 @@ def multiplicacion(x, y):
     return x * y
 
 resultado = restar(7, 5)
-print(resultado)
+print("Cambio"+ str(resultado))
