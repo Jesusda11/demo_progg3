@@ -1,6 +1,6 @@
 
 def restar(x, y):
-    return x + y
+    return x * y
 
 def multiplicacion(x, y):
     return x * y
